@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "topic": "Pediatric Nursing",
+    "question": "The nursing care plan for a toddler diagnosed with Kawasaki Disease (mucocutaneous lymph node syndrome) should be based on the high risk for development of which problem?",
+    "options": [
+      "A) Chronic vessel plaque formation",
+      "B) Pulmonary embolism",
+      "C) Occlusions at the vessel bifurcations",
+      "D) Coronary artery aneurysm"
+    ],
+    "answer": "D) Coronary artery aneurysm",
+    "rationale": "Kawasaki Disease involves progressive inflammation of small and medium-sized muscular arteries, which can damage arterial walls and lead to coronary artery aneurysms[cite: 1]."
+  },
+  {
+    "id": 2,
+    "topic": "Fundamentals of Nursing",
+    "question": "A nurse has just received a medication order which is not legible. Which statement best reflects assertive communication?",
+    "options": [
+      "A) \"I cannot give this medication as it is written. I have no idea of what you mean.\"",
+      "B) \"Would you please clarify what you have written so I am sure I am reading it correctly?\"",
+      "C) \"I am having difficulty reading your handwriting. It would save me time if you would be more careful.\"",
+      "D) \"Please print in the future so I do not have to spend extra time attempting to read your writing.\""
+    ],
+    "answer": "B) \"Would you please clarify what you have written so I am sure I am reading it correctly?\"",
+    "rationale": "Assertive communication respects both parties by expressing concern for client safety directly and requesting clarification without self-depreciation or hostility[cite: 1]."
+  },
+  {
+    "id": 3,
+    "topic": "Pediatric Nursing",
+    "question": "The nurse is discussing negativism with the parents of a 30-month-old child. How should the nurse tell the parents to best respond to this behavior?",
+    "options": [
+      "A) Reprimand the child and give a 15 minute \"time out\"",
+      "B) Maintain a permissive attitude for this behavior",
+      "C) Use patience and a sense of humor to deal with this behavior",
+      "D) Assert authority over the child through limit setting"
+    ],
+    "answer": "C) Use patience and a sense of humor to deal with this behavior",
+    "rationale": "Negativism is a normal developmental expression of autonomy in toddlers[cite: 1, 2]. Parents manage this best with patience, understanding, and humor[cite: 1]."
+  },
+  {
+    "id": 4,
+    "topic": "Medical-Surgical Nursing",
+    "question": "An ambulatory client reports edema during the day in his feet and an ankle that disappears while sleeping at night. What is the most appropriate follow-up question for the nurse to ask?",
+    "options": [
+      "A) \"Have you had a recent heart attack?\"",
+      "B) \"Do you become short of breath during your normal daily activities?\"",
+      "C) \"How many pillows do you use at night to sleep comfortably?\"",
+      "D) \"Do you smoke?\""
+    ],
+    "answer": "B) \"Do you become short of breath during your normal daily activities?\"",
+    "rationale": "Dependent edema settling during the day and resolving overnight is a symptom of right-sided heart failure[cite: 1]. Assessing activity intolerance confirms fluid volume excess[cite: 1]."
+  },
+  {
+    "id": 5,
+    "topic": "Medical-Surgical Nursing",
+    "question": "The nurse is planning care for a client during the acute phase of a sickle cell vaso-occlusive crisis. Which of the following actions would be most appropriate?",
+    "options": [
+      "A) Fluid restriction 1000cc per day",
+      "B) Ambulate in hallway 4 times a day",
+      "C) Administer analgesic therapy as ordered",
+      "D) Encourage increased caloric intake"
+    ],
+    "answer": "C) Administer analgesic therapy as ordered",
+    "rationale": "Acute treatment for a sickle cell crisis prioritizes bed rest, aggressive hydration, electrolyte balance, analgesics for severe pain, and oxygenation[cite: 1]."
+  },
+  {
+    "id": 6,
+    "topic": "Psychiatric Nursing",
+    "question": "While working with an obese adolescent, it is important for the nurse to recognize that obesity in adolescents is most often associated with what other behavior?",
+    "options": [
+      "A) Sexual promiscuity",
+      "B) Poor body image",
+      "C) Dropping out of school",
+      "D) Drug experimentation"
+    ],
+    "answer": "B) Poor body image",
+    "rationale": "Adolescent obesity correlates strongly with diminished self-esteem and a negative body image during a critical stage of identity formation[cite: 1, 2]."
+  },
+  {
+    "id": 7,
+    "topic": "Psychiatric Nursing",
+    "question": "A nurse and client are talking about the client’s progress toward understanding his behavior under stress. This is typical of which phase in the therapeutic relationship?",
+    "options": [
+      "A) Pre-interaction",
+      "B) Orientation",
+      "C) Working",
+      "D) Termination"
+    ],
+    "answer": "C) Working",
+    "rationale": "During the working phase of a therapeutic relationship, the nurse and client explore insights, meaning behind behavior, and adaptive coping skills[cite: 1]."
+  },
+  {
+    "id": 8,
+    "topic": "Pediatric Nursing",
+    "question": "A nurse is eating in the hospital cafeteria when a toddler at a nearby table chokes on a piece of food and appears slightly blue. The appropriate initial action should be to:",
+    "options": [
+      "A) Begin mouth to mouth resuscitation",
+      "B) Give the child water to help in swallowing",
+      "C) Perform 5 abdominal thrusts",
+      "D) Call for the emergency response team"
+    ],
+    "answer": "C) Perform 5 abdominal thrusts",
+    "rationale": "In a choking toddler with foreign body airway obstruction, immediate abdominal thrusts are indicated to clear the airway obstruction efficiently[cite: 1]."
+  },
+  {
+    "id": 9,
+    "topic": "Pediatric Nursing",
+    "question": "The emergency room nurse admits a child who experienced a seizure at school. The father comments that this is the first occurrence, and denies any family history of epilepsy. What is the best response by the nurse?",
+    "options": [
+      "A) \"Do not worry. Epilepsy can be treated with medications.\"",
+      "B) \"The seizure may or may not mean your child has epilepsy.\"",
+      "C) \"Since this was the first convulsion, it may not happen again.\"",
+      "D) \"Long term treatment will prevent future seizures.\""
+    ],
+    "answer": "B) \"The seizure may or may not mean your child has epilepsy.\"",
+    "rationale": "Childhood seizures stem from numerous etiologies including febrile states, trauma, or metabolic imbalances, and do not necessarily signify chronic epilepsy[cite: 1]."
+  },
+  {
+    "id": 10,
+    "topic": "Pediatric Nursing",
+    "question": "A nurse admits a 3-week-old infant to the special care nursery with a diagnosis of bronchopulmonary dysplasia. As the nurse reviews the birth history, which data would be most consistent with this diagnosis?",
+    "options": [
+      "A) Gestational age assessment suggested growth retardation",
+      "B) Meconium was cleared from the airway at delivery",
+      "C) Phototherapy was used to treat Rh incompatibility",
+      "D) The infant received mechanical ventilation for 2 weeks"
+    ],
+    "answer": "D) The infant received mechanical ventilation for 2 weeks",
+    "rationale": "Bronchopulmonary dysplasia is an iatrogenic lung disease resulting from prolonged exposure to positive-pressure mechanical ventilation and supplemental oxygen[cite: 1]."
+  },
+  {
+    "id": 11,
+    "topic": "Maternal and Child Health",
+    "question": "Parents of a 6-month-old breastfed baby ask the nurse about increasing the baby's diet. Which of the following should be added first?",
+    "options": [
+      "A) Cereal",
+      "B) Eggs",
+      "C) Meat",
+      "D) Juice"
+    ],
+    "answer": "A) Cereal",
+    "rationale": "Single-ingredient iron-fortified infant cereal is the recommended initial solid food introduced sequentially to assess for allergies[cite: 1]."
+  },
+  {
+    "id": 12,
+    "topic": "Psychiatric Nursing",
+    "question": "A victim of domestic violence states, \"If I were better, I would not have been beat.\" Which feeling best describes what the victim may be experiencing?",
+    "options": [
+      "A) Fear",
+      "B) Helplessness",
+      "C) Self-blame",
+      "D) Rejection"
+    ],
+    "answer": "C) Self-blame",
+    "rationale": "Domestic violence victims frequently internalize blame, mistakenly believing that modifying their behavior will stop the abuser's violence[cite: 1]."
+  },
+  {
+    "id": 13,
+    "topic": "Medical-Surgical Nursing",
+    "question": "Which oxygen delivery system would the nurse apply that would provide the highest concentrations of oxygen to the client?",
+    "options": [
+      "A) Venturi mask",
+      "B) Partial rebreather mask",
+      "C) Non-rebreather mask",
+      "D) Simple face mask"
+    ],
+    "answer": "C) Non-rebreather mask",
+    "rationale": "A non-rebreather mask features one-way valves preventing room air inhalation and rebreathing of exhaled gas, supplying up to 100% FiO2 when tightly fitted[cite: 1]."
+  },
+  {
+    "id": 14,
+    "topic": "Medical-Surgical Nursing",
+    "question": "A nurse is caring for a client who had a closed reduction of a fractured right wrist followed by the application of a fiberglass cast 12 hours ago. Which finding requires the nurse’s immediate attention?",
+    "options": [
+      "A) Capillary refill of fingers on right hand is 3 seconds",
+      "B) Skin warm to touch and normally colored",
+      "C) Client reports prickling sensation in the right hand",
+      "D) Slight swelling of fingers of right hand"
+    ],
+    "answer": "C) Client reports prickling sensation in the right hand",
+    "rationale": "Paresthesia or a prickling sensation is an early indicator of neurovascular compromise and acute compartment syndrome requiring immediate intervention[cite: 1]."
+  },
+  {
+    "id": 15,
+    "topic": "Medical-Surgical Nursing",
+    "question": "Included in teaching the client with tuberculosis taking INH about follow-up home care, the nurse should emphasize that a laboratory appointment for which of the following lab tests is critical?",
+    "options": [
+      "A) Liver function",
+      "B) Kidney function",
+      "C) Blood sugar",
+      "D) Cardiac enzymes"
+    ],
+    "answer": "A) Liver function",
+    "rationale": "Isoniazid (INH) is hepatotoxic and can cause severe drug-induced hepatitis, necessitating periodic liver enzyme monitoring[cite: 1]."
+  },
+  {
+    "id": 16,
+    "topic": "Fundamentals of Nursing",
+    "question": "Which client is at highest risk for developing a pressure ulcer?",
+    "options": [
+      "A) 23 year-old in traction for fractured femur",
+      "B) 72 year-old with peripheral vascular disease, who is unable to walk without assistance",
+      "C) 75 year-old with left sided paresthesia and is incontinent of urine and stool",
+      "D) 30 year-old who is comatose following a ruptured aneurysm"
+    ],
+    "answer": "C) 75 year-old with left sided paresthesia and is incontinent of urine and stool",
+    "rationale": "This client combines advanced age, loss of sensation/mobility, and constant exposure to skin moisture and maceration from incontinence[cite: 1]."
+  },
+  {
+    "id": 17,
+    "topic": "Pediatric Nursing",
+    "question": "The nurse is caring for a 2 year-old who is being treated with chelation therapy, calcium disodium edetate, for lead poisoning. The nurse should be alert for which of the following side effects?",
+    "options": [
+      "A) Neurotoxicity",
+      "B) Hepatomegaly",
+      "C) Nephrotoxicity",
+      "D) Ototoxicity"
+    ],
+    "answer": "C) Nephrotoxicity",
+    "rationale": "Calcium disodium edetate is excreted via the kidneys and carries a primary risk of acute renal tubular necrosis and nephrotoxicity[cite: 1]."
+  },
+  {
+    "id": 18,
+    "topic": "Medical-Surgical Nursing",
+    "question": "A client with chronic obstructive lung disease indicates an understanding of the major reason for the use of occasional pursed-lip breathing by stating:",
+    "options": [
+      "A) \"This action of my lips helps to keep my airway open.\"",
+      "B) \"I can expel more when I pucker up my lips to breathe out.\"",
+      "C) \"My mouth doesn't get as dry when I breathe with pursed lips.\"",
+      "D) \"By prolonging breathing out with pursed lips the little areas in my lungs don't collapse.\""
+    ],
+    "answer": "D) \"By prolonging breathing out with pursed lips the little areas in my lungs don't collapse.\"",
+    "rationale": "Pursed-lip breathing generates positive end-expiratory pressure (PEEP), maintaining airway patency and preventing alveolar collapse during exhalation[cite: 1]."
+  },
+  {
+    "id": 19,
+    "topic": "Maternal and Child Health",
+    "question": "A client experiences postpartum hemorrhage eight hours after the birth of twins. She asks the nurse whether she should continue to breastfeed. Which response is correct?",
+    "options": [
+      "A) \"Nursing will help contract the uterus and reduce your risk of bleeding.\"",
+      "B) \"Breastfeeding twins will take too much energy after the hemorrhage.\"",
+      "C) \"The blood transfusion may increase the risks to you and the babies.\"",
+      "D) \"Lactation should be delayed until the 'real milk' is secreted.\""
+    ],
+    "answer": "A) \"Nursing will help contract the uterus and reduce your risk of bleeding.\"",
+    "rationale": "Suckling stimulates endogenous oxytocin release from the posterior pituitary, contracting the uterine myometrium and minimizing hemorrhage[cite: 1]."
+  },
+  {
+    "id": 20,
+    "topic": "Community Health Nursing",
+    "question": "An important role of the community health nurse in the prevention and control of Dengue H-fever includes:",
+    "options": [
+      "A) Advising the elimination of vectors by keeping water containers covered",
+      "B) Conducting strong health education drives/campaign directed towards proper garbage disposal",
+      "C) Explaining to the individuals, families, groups and community the nature of the disease and its causation",
+      "D) Practicing residual spraying with insecticides"
+    ],
+    "answer": "A) Advising the elimination of vectors by keeping water containers covered",
+    "rationale": "Vector control through source reduction (covering water containers, eliminating stagnant breeding sites) is the cornerstone of community dengue prevention[cite: 2]."
+  }
+]

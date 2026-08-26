@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "question": "The nursing care plan for a toddler diagnosed with Kawasaki Disease (mucocutaneous lymph node syndrome) should be based on the high risk for development of which problem?",
+    "options": {
+      "A": "Chronic vessel plaque formation",
+      "B": "Pulmonary embolism",
+      "C": "Occlusions at the vessel bifurcations",
+      "D": "Coronary artery aneurysm"
+    },
+    "answer": "D",
+    "rationale": "Kawasaki Disease involves all the small and medium-sized blood vessels. There is progressive inflammation of the small vessels which progresses to the medium-sized muscular arteries, potentially damaging the walls and leading to coronary artery aneurysms.[cite: 3]"
+  },
+  {
+    "id": 2,
+    "question": "A nurse has just received a medication order which is not legible. Which statement best reflects assertive communication?",
+    "options": {
+      "A": "\"I cannot give this medication as it is written. I have no idea of what you mean.\"",
+      "B": "\"Would you please clarify what you have written so I am sure I am reading it correctly?\"",
+      "C": "\"I am having difficulty reading your handwriting. It would save me time if you would be more careful.\"",
+      "D": "\"Please print in the future so I do not have to spend extra time attempting to read your writing.\""
+    },
+    "answer": "B",
+    "rationale": "Assertive communication respects the rights and responsibilities of both parties. This statement is an honest expression of concern for safe practice and a request for clarification without self-depreciation. It reflects the right of the professional to give and receive information.[cite: 3]"
+  },
+  {
+    "id": 3,
+    "question": "The nurse is discussing negativism with the parents of a 30 month-old child. How should the nurse tell the parents to best respond to this behavior?",
+    "options": {
+      "A": "Reprimand the child and give a 15 minute \"time out\"",
+      "B": "Maintain a permissive attitude for this behavior",
+      "C": "Use patience and a sense of humor to deal with this behavior",
+      "D": "Assert authority over the child through limit setting"
+    },
+    "answer": "C",
+    "rationale": "The nurse should help the parents see the negativism as a normal growth of autonomy in the toddler. They can best handle the negative toddler by using patience and humor.[cite: 3]"
+  },
+  {
+    "id": 4,
+    "question": "An ambulatory client reports edema during the day in his feet and an ankle that disappears while sleeping at night. What is the most appropriate follow-up question for the nurse to ask?",
+    "options": {
+      "A": "\"Have you had a recent heart attack?\"",
+      "B": "\"Do you become short of breath during your normal daily activities?\"",
+      "C": "\"How many pillows do you use at night to sleep comfortably?\"",
+      "D": "\"Do you smoke?\""
+    },
+    "answer": "B",
+    "rationale": "These are the symptoms of right-sided heart failure, which causes increased pressure in the systemic venous system. To equalize this pressure, the fluid shifts into the interstitial spaces causing edema. Because of gravity, the lower extremities are first affected in an ambulatory patient. This question would elicit information to confirm the nursing diagnosis of activity intolerance and fluid volume excess both associated with right-sided heart failure.[cite: 3]"
+  },
+  {
+    "id": 5,
+    "question": "The nurse is planning care for a client during the acute phase of a sickle cell vaso-occlusive crisis. Which of the following actions would be most appropriate?",
+    "options": {
+      "A": "Fluid restriction 1000cc per day",
+      "B": "Ambulate in hallway 4 times a day",
+      "C": "Administer analgesic therapy as ordered",
+      "D": "Encourage increased caloric intake"
+    },
+    "answer": "C",
+    "rationale": "The main general objectives in the treatment of a sickle cell crisis is bed rest, hydration, electrolyte replacement, analgesics for pain, blood replacement and antibiotics to treat any existing infection.[cite: 3]"
+  },
+  {
+    "id": 6,
+    "question": "While working with an obese adolescent, it is important for the nurse to recognize that obesity in adolescents is most often associated with what other behavior?",
+    "options": {
+      "A": "Sexual promiscuity",
+      "B": "Poor body image",
+      "C": "Dropping out of school",
+      "D": "Drug experimentation"
+    },
+    "answer": "B",
+    "rationale": "As the adolescent gains weight, there is a lessening sense of self esteem and poor body image.[cite: 3]"
+  },
+  {
+    "id": 7,
+    "question": "A nurse and client are talking about the client’s progress toward understanding his behavior under stress. This is typical of which phase in the therapeutic relationship?",
+    "options": {
+      "A": "Pre-interaction",
+      "B": "Orientation",
+      "C": "Working",
+      "D": "Termination"
+    },
+    "answer": "C",
+    "rationale": "During the working phase alternative behaviors and techniques are explored. The nurse and the client discuss the meaning behind the behavior.[cite: 3]"
+  },
+  {
+    "id": 8,
+    "question": "A nurse is eating in the hospital cafeteria when a toddler at a nearby table chokes on a piece of food and appears slightly blue. The appropriate initial action should be to",
+    "options": {
+      "A": "Begin mouth to mouth resuscitation",
+      "B": "Give the child water to help in swallowing",
+      "C": "Perform 5 abdominal thrusts",
+      "D": "Call for the emergency response team"
+    },
+    "answer": "C",
+    "rationale": "At this age, the most effective way to clear the airway of food is to perform abdominal thrusts.[cite: 3]"
+  },
+  {
+    "id": 9,
+    "question": "The emergency room nurse admits a child who experienced a seizure at school. The father comments that this is the first occurrence, and denies any family history of epilepsy. What is the best response by the nurse?",
+    "options": {
+      "A": "\"Do not worry. Epilepsy can be treated with medications.\"",
+      "B": "\"The seizure may or may not mean your child has epilepsy.\"",
+      "C": "\"Since this was the first convulsion, it may not happen again.\"",
+      "D": "\"Long term treatment will prevent future seizures.\""
+    },
+    "answer": "B",
+    "rationale": "There are many possible causes for a childhood seizure. These include fever, central nervous system conditions, trauma, metabolic alterations and idiopathic (unknown).[cite: 3]"
+  },
+  {
+    "id": 10,
+    "question": "A nurse admits a 3 week-old infant to the special care nursery with a diagnosis of bronchopulmonary dysplasia. As the nurse reviews the birth history, which data would be most consistent with this diagnosis?",
+    "options": {
+      "A": "Gestational age assessment suggested growth retardation",
+      "B": "Meconium was cleared from the airway at delivery",
+      "C": "Phototherapy was used to treat Rh incompatibility",
+      "D": "The infant received mechanical ventilation for 2 weeks"
+    },
+    "answer": "D",
+    "rationale": "Bronchopulmonary dysplasia is an iatrogenic disease caused by therapies such as use of positive-pressure ventilation used to treat lung disease.[cite: 3]"
+  },
+  {
+    "id": 11,
+    "question": "Parents of a 6 month-old breast fed baby ask the nurse about increasing the baby's diet. Which of the following should be added first?",
+    "options": {
+      "A": "Cereal",
+      "B": "Eggs",
+      "C": "Meat",
+      "D": "Juice"
+    },
+    "answer": "A",
+    "rationale": "The guidelines of the American Academy of Pediatrics recommend that one new food be introduced at a time, beginning with strained cereal.[cite: 3]"
+  },
+  {
+    "id": 12,
+    "question": "A victim of domestic violence states, \"If I were better, I would not have been beat.\" Which feeling best describes what the victim may be experiencing?",
+    "options": {
+      "A": "Fear",
+      "B": "Helplessness",
+      "C": "Self-blame",
+      "D": "Rejection"
+    },
+    "answer": "C",
+    "rationale": "Domestic violence victims may be immobilized by a variety of affective responses, one being self-blame. The victim believes that a change in their behavior will cause the abuser to become nonviolent, which is a myth.[cite: 3]"
+  },
+  {
+    "id": 13,
+    "question": "The nurse is assessing the mental status of a client admitted with possible organic brain disorder. Which of these questions will best assess the function of the client's recent memory?",
+    "options": {
+      "A": "\"Name the year.\" \"What season is this?\" (pause for answer after each question)",
+      "B": "\"Subtract 7 from 100 and then subtract 7 from that.\" (pause for answer) \"Now continue to subtract 7 from the new number.\"",
+      "C": "\"I am going to say the names of three things and I want you to repeat them after me: blue, ball, pen.\"",
+      "D": "\"What is this on my wrist?\" (point to your watch) Then ask, \"What is the purpose of it?\""
+    },
+    "answer": "C",
+    "rationale": "Asking the client to repeat three items assesses immediate/recent memory function.[cite: 3]"
+  },
+  {
+    "id": 14,
+    "question": "Which oxygen delivery system would the nurse apply that would provide the highest concentrations of oxygen to the client?",
+    "options": {
+      "A": "Venturi mask",
+      "B": "Partial rebreather mask",
+      "C": "Non-rebreather mask",
+      "D": "Simple face mask"
+    },
+    "answer": "C",
+    "rationale": "The non-rebreather mask has a one-way valve that prevents exhaled air from entering the reservoir bag and one or more valves covering the air holes on the face mask itself to prevent inhalation of room air but to allow exhalation of air. When a tight seal is achieved around the mask up to 100% of oxygen is available.[cite: 3]"
+  },
+  {
+    "id": 15,
+    "question": "A nurse is caring for a client who had a closed reduction of a fractured right wrist followed by the application of a fiberglass cast 12 hours ago. Which finding requires the nurse's immediate attention?",
+    "options": {
+      "A": "Capillary refill of fingers on right hand is 3 seconds",
+      "B": "Skin warm to touch and normally colored",
+      "C": "Client reports prickling sensation in the right hand",
+      "D": "Slight swelling of fingers of right hand"
+    },
+    "answer": "C",
+    "rationale": "Prickling sensation is an indication of compartment syndrome and requires immediate action by the nurse. The other findings are normal for a client in this situation.[cite: 3]"
+  },
+  {
+    "id": 16,
+    "question": "Included in teaching the client with tuberculosis taking INH about follow-up home care, the nurse should emphasize that a laboratory appointment for which of the following lab tests is critical?",
+    "options": {
+      "A": "Liver function",
+      "B": "Kidney function",
+      "C": "Blood sugar",
+      "D": "Cardiac enzymes"
+    },
+    "answer": "A",
+    "rationale": "INH can cause hepatocellular injury and hepatitis. This side effect is age-related and can be detected with regular assessment of liver enzymes, which are released into the blood from damaged liver cells.[cite: 3]"
+  },
+  {
+    "id": 17,
+    "question": "Which client is at highest risk for developing a pressure ulcer?",
+    "options": {
+      "A": "23 year-old in traction for fractured femur",
+      "B": "72 year-old with peripheral vascular disease, who is unable to walk without assistance",
+      "C": "75 year-old with left sided paresthesia and is incontinent of urine and stool",
+      "D": "30 year-old who is comatose following a ruptured aneurysm"
+    },
+    "answer": "C",
+    "rationale": "Risk factors for pressure ulcers include: immobility, absence of sensation, decreased LOC, poor nutrition and hydration, skin moisture, incontinence, increased age, decreased immune response. This client has the greatest number of risk factors.[cite: 3]"
+  },
+  {
+    "id": 18,
+    "question": "Which contraindication should the nurse assess for prior to giving a child immunization?",
+    "options": {
+      "A": "Mild cold symptoms",
+      "B": "Chronic asthma",
+      "C": "Depressed immune system",
+      "D": "Allergy to eggs"
+    },
+    "answer": "C",
+    "rationale": "Children who have a depressed immune system related to HIV or chemotherapy should not be given routine immunizations.[cite: 3]"
+  },
+  {
+    "id": 19,
+    "question": "The nurse is caring for a 2 year-old who is being treated with chelation therapy, calcium disodium edetate, for lead poisoning. The nurse should be alert for which of the following side effects?",
+    "options": {
+      "A": "Neurotoxicity",
+      "B": "Hepatomegaly",
+      "C": "Nephrotoxicity",
+      "D": "Ototoxicity"
+    },
+    "answer": "C",
+    "rationale": "Nephrotoxicity is a common side effect of calcium disodium edetate, in addition to lead poisoning in general.[cite: 3]"
+  },
+  {
+    "id": 20,
+    "question": "A newborn is having difficulty maintaining a temperature above 98 degrees Fahrenheit and has been placed in a warming isolette. Which action is a nursing priority?",
+    "options": {
+      "A": "Protect the eyes of the neonate from the heat lamp",
+      "B": "Monitor the neonate's temperature",
+      "C": "Warm all medications and liquids before giving",
+      "D": "Avoid touching the neonate with cold hands"
+    },
+    "answer": "B",
+    "rationale": "When using a warming device the neonate's temperature should be continuously monitored for undesired elevations. The use of heat lamps is not safe as there is no way to regulate their temperature. Warming medications and fluids is not indicated. While touching with cold hands can startle the infant it does not pose a safety risk.[cite: 3]"
+  },
+  {
+    "id": 21,
+    "question": "At a senior citizens meeting a nurse talks with a client who has diabetes mellitus Type 1. Which statement by the client during the conversation is most predictive of a potential for impaired skin integrity?",
+    "options": {
+      "A": "\"I give my insulin to myself in my thighs.\"",
+      "B": "\"Sometimes when I put my shoes on I don't know where my toes are.\"",
+      "C": "\"Here are my up and down glucose readings that I wrote on my calendar.\"",
+      "D": "\"If I bathe more than once a week my skin feels too dry.\""
+    },
+    "answer": "B",
+    "rationale": "Peripheral neuropathy can lead to lack of sensation in the lower extremities. Clients do not feel pressure and/or pain and are at high risk for skin impairment.[cite: 3]"
+  },
+  {
+    "id": 22,
+    "question": "A 4 year-old hospitalized child begins to have a seizure while playing with hard plastic toys in the hallway. Of the following nursing actions, which one should the nurse do first?",
+    "options": {
+      "A": "Place the child in the nearest bed",
+      "B": "Administer IV medication to slow down the seizure",
+      "C": "Place a padded tongue blade in the child's mouth",
+      "D": "Remove the child's toys from the immediate area"
+    },
+    "answer": "D",
+    "rationale": "Nursing care for a child having a seizure includes, maintaining airway patency, ensuring safety, administering medications, and providing emotional support. Since the seizure has already started, nothing should be forced into the child's mouth and they should not be moved. Of the choices given, first priority would be for safety.[cite: 3]"
+  },
+  {
+    "id": 23,
+    "question": "The nurse is at the community center speaking with retired people. To which comment by one of the retirees during a discussion about glaucoma would the nurse give a supportive comment to reinforce correct information?",
+    "options": {
+      "A": "\"I usually avoid driving at night since lights sometimes seem to make things blur.\"",
+      "B": "\"I take half of the usual dose for my sinuses to maintain my blood pressure.\"",
+      "C": "\"I have to sit at the side of the pool with the grandchildren since I can't swim with this eye problem.\"",
+      "D": "\"I take extra fiber and drink lots of water to avoid getting constipated.\""
+    },
+    "answer": "D",
+    "rationale": "Any activity that involves straining should be avoided in clients with glaucoma. Such activities would increase intraocular pressure.[cite: 3]"
+  },
+  {
+    "id": 24,
+    "question": "The nurse is teaching a parent about side effects of routine immunizations. Which of the following must be reported immediately?",
+    "options": {
+      "A": "Irritability",
+      "B": "Slight edema at site",
+      "C": "Local tenderness",
+      "D": "Temperature of 102.5 F"
+    },
+    "answer": "D",
+    "rationale": "An adverse reaction of a fever should be reported immediately. Other reactions that should be reported include crying for > 3 hours, seizure activity, and tender, swollen, reddened areas.[cite: 3]"
+  },
+  {
+    "id": 25,
+    "question": "A client is admitted with the diagnosis of pulmonary embolism. While taking a history, the client tells the nurse he was admitted for the same thing twice before, the last time just 3 months ago. The nurse would anticipate the health care provider ordering",
+    "options": {
+      "A": "Pulmonary embolectomy",
+      "B": "Vena caval interruption",
+      "C": "Increasing the coumadin therapy to an INR of 3-4",
+      "D": "Thrombolytic therapy"
+    },
+    "answer": "B",
+    "rationale": "Clients with contraindications to heparin, recurrent PE or those with complications related to the medical therapy may require vena caval interruption by the placement of a filter device in the inferior vena cava. A filter can be placed transvenously to trap clots before they travel to the pulmonary circulation.[cite: 3]"
+  },
+  {
+    "id": 26,
+    "question": "A woman in her third trimester complains of severe heartburn. What is appropriate teaching by the nurse to help the woman alleviate these symptoms?",
+    "options": {
+      "A": "Drink small amounts of liquids frequently",
+      "B": "Eat the evening meal just before retiring",
+      "C": "Take sodium bicarbonate after each meal",
+      "D": "Sleep with head propped on several pillows"
+    },
+    "answer": "D",
+    "rationale": "Heartburn is a burning sensation caused by regurgitation of gastric contents that is best relieved by sleeping position, eating small meals, and not eating before bedtime.[cite: 3]"
+  },
+  {
+    "id": 27,
+    "question": "The nurse is teaching the mother of a 5 month-old about nutrition for her baby. Which statement by the mother indicates the need for further teaching?",
+    "options": {
+      "A": "\"I'm going to try feeding my baby some rice cereal.\"",
+      "B": "\"When he wakes at night for a bottle, I feed him.\"",
+      "C": "\"I dip his pacifier in honey so he'll take it.\"",
+      "D": "\"I keep formula in the refrigerator for 24 hours.\""
+    },
+    "answer": "C",
+    "rationale": "Honey has been associated with infant botulism and should be avoided. Older children and adults have digestive enzymes that kill the botulism spores.[cite: 3]"
+  },
+  {
+    "id": 28,
+    "question": "For a 6 year-old child hospitalized with moderate edema and mild hypertension associated with acute glomerulonephritis (AGN), which one of the following nursing interventions would be appropriate?",
+    "options": {
+      "A": "Institute seizure precautions",
+      "B": "Weigh the child twice per shift",
+      "C": "Encourage the child to eat protein-rich foods",
+      "D": "Relieve boredom through physical activity"
+    },
+    "answer": "A",
+    "rationale": "Institute seizure precautions. The severity of the acute phase of AGN is variable and unpredictable; therefore, a child with edema, hypertension, and gross hematuria may be subject to complications and anticipatory preparation such as seizure precautions are needed.[cite: 3]"
+  },
+  {
+    "id": 29,
+    "question": "Which statement by the client with chronic obstructive lung disease indicates an understanding of the major reason for the use of occasional pursed-lip breathing?",
+    "options": {
+      "A": "\"This action of my lips helps to keep my airway open.\"",
+      "B": "\"I can expel more when I pucker up my lips to breathe out.\"",
+      "C": "\"My mouth doesn't get as dry when I breathe with pursed lips.\"",
+      "D": "\"By prolonging breathing out with pursed lips the little areas in my lungs don't collapse.\""
+    },
+    "answer": "D",
+    "rationale": "Clients with chronic obstructive pulmonary disease have difficulty exhaling fully as a result of the weak alveolar walls from the disease process. Alveolar collapse can be avoided with the use of pursed-lip breathing. This is the major reason to use it. The other options are secondary effects of purse-lip breathing.[cite: 3]"
+  },
+  {
+    "id": 30,
+    "question": "A 57 year-old male client has hemoglobin of 10 mg/dl and a hematocrit of 32%. What would be the most appropriate follow-up by the home care nurse?",
+    "options": {
+      "A": "Ask the client if he has noticed any bleeding or dark stools",
+      "B": "Tell the client to call 911 and go to the emergency department immediately",
+      "C": "Schedule a repeat Hemoglobin and Hematocrit in 1 month",
+      "D": "Tell the client to schedule an appointment with a hematologist"
+    },
+    "answer": "A",
+    "rationale": "Normal hemoglobin for males is 13.0 - 18 g/100 ml. Normal hematocrit for males is 42 - 52%. These values are below normal and indicate mild anemia. The first thing the nurse should do is ask the client if he's noticed any bleeding or change in stools that could indicate bleeding from the GI tract.[cite: 3]"
+  },
+  {
+    "id": 31,
+    "question": "Which response by the nurse would best assist the chemically impaired client to deal with issues of guilt?",
+    "options": {
+      "A": "\"Addiction usually causes people to feel guilty. Don’t worry, it is a typical response due to your drinking behavior.\"",
+      "B": "\"What have you done that you feel most guilty about and what steps can you begin to take to help you lessen this guilt?\"",
+      "C": "\"Don’t focus on your guilty feelings. These feelings will only lead you to drinking and taking drugs.\"",
+      "D": "\"You’ve caused a great deal of pain to your family and close friends, so it will take time to undo all the things you’ve done.\""
+    },
+    "answer": "B",
+    "rationale": "This response encourages the client to get in touch with their feelings and utilize problem solving steps to reduce guilt feelings.[cite: 3]"
+  },
+  {
+    "id": 32,
+    "question": "An adolescent client comes to the clinic 3 weeks after the birth of her first baby. She tells the nurse she is concerned because she has not returned to her pre-pregnant weight. Which action should the nurse perform first?",
+    "options": {
+      "A": "Review the client's weight pattern over the year",
+      "B": "Ask the mother to record her diet for the last 24 hours",
+      "C": "Encourage her to talk about her view of herself",
+      "D": "Give her several pamphlets on postpartum nutrition"
+    },
+    "answer": "C",
+    "rationale": "To an adolescent, body image is very important. The nurse must acknowledge this before assessment and teaching.[cite: 3]"
+  },
+  {
+    "id": 33,
+    "question": "Which of the following measures would be appropriate for the nurse to teach the parent of a nine month-old infant about diaper dermatitis?",
+    "options": {
+      "A": "Use only cloth diapers that are rinsed in bleach",
+      "B": "Do not use occlusive ointments on the rash",
+      "C": "Use commercial baby wipes with each diaper change",
+      "D": "Discontinue a new food that was added to the infant's diet just prior to the rash"
+    },
+    "answer": "D",
+    "rationale": "The addition of new foods to the infant’s diet may be a cause of diaper dermatitis.[cite: 3]"
+  },
+  {
+    "id": 34,
+    "question": "A 16 year-old client is admitted to a psychiatric unit with a diagnosis of attempted suicide. The nurse is aware that the most frequent cause for suicide in adolescents is",
+    "options": {
+      "A": "Progressive failure to adapt",
+      "B": "Feelings of anger or hostility",
+      "C": "Reunion wish or fantasy",
+      "D": "Feelings of alienation or isolation"
+    },
+    "answer": "D",
+    "rationale": "Isolation may occur gradually resulting in a loss of all meaningful social contacts. Isolation can be self imposed or can occur as a result of the inability to express feelings. At this stage of development it is important to achieve a sense of identity and peer acceptance.[cite: 3]"
+  },
+  {
+    "id": 35,
+    "question": "A mother brings her 26 month-old to the well-child clinic. She expresses frustration and anger due to her child's constantly saying \"no\" and his refusal to follow her directions. The nurse explains this is normal for his age, as negativism is attempting to meet which developmental need?",
+    "options": {
+      "A": "Trust",
+      "B": "Initiative",
+      "C": "Independence",
+      "D": "Self-esteem"
+    },
+    "answer": "C",
+    "rationale": "In Erikson’s theory of development, toddlers struggle to assert independence. They often use the word \"no\" even when they mean yes. This stage is called autonomy versus shame and doubt.[cite: 3]"
+  },
+  {
+    "id": 36,
+    "question": "Following mitral valve replacement surgery a client develops PVC’s. The health care provider orders a bolus of Lidocaine followed by a continuous Lidocaine infusion at a rate of 2 mgm/minute. The IV solution contains 2 grams of Lidocaine in 500 cc’s of D5W. The infusion pump delivers 60 microdrops/cc. What rate would deliver 4 mgm of Lidocaine/minute?",
+    "options": {
+      "A": "60 microdrops/minute",
+      "B": "20 microdrops/minute",
+      "C": "30 microdrops/minute",
+      "D": "40 microdrops/minute"
+    },
+    "answer": "A",
+    "rationale": "2 gm = 2000 mgm; 2000 mgm / 500 cc = 4 mgm / x cc => 2000x = 2000 => x = 1 cc of IV solution/minute. 1 cc x 60 microdrops = 60 microdrops/minute.[cite: 3]"
+  },
+  {
+    "id": 37,
+    "question": "A couple asks the nurse about risks of several birth control methods. What is the most appropriate response by the nurse?",
+    "options": {
+      "A": "Norplant is safe and may be removed easily",
+      "B": "Oral contraceptives should not be used by smokers",
+      "C": "Depo-Provera is convenient with few side effects",
+      "D": "The IUD gives protection from pregnancy and infection"
+    },
+    "answer": "B",
+    "rationale": "The use of oral contraceptives in a woman who smokes increases her risk of cardiovascular problems, such as thromboembolic disorders.[cite: 3]"
+  },
+  {
+    "id": 38,
+    "question": "The nurse is caring for a client in the late stages of Amyotrophic Lateral Sclerosis (A.L.S.). Which finding would the nurse expect?",
+    "options": {
+      "A": "Confusion",
+      "B": "Loss of half of visual field",
+      "C": "Shallow respirations",
+      "D": "Tonic-clonic seizures"
+    },
+    "answer": "C",
+    "rationale": "A.L.S. is a chronic progressive disease that involves degeneration of the anterior horn of the spinal cord as well as the corticospinal tracts. When the intercostal muscles and diaphragm become involved, respirations become shallow and coughing is ineffective.[cite: 3]"
+  },
+  {
+    "id": 39,
+    "question": "A client experiences post partum hemorrhage eight hours after the birth of twins. Following administration of IV fluids and 500 ml of whole blood, her hemoglobin and hematocrit are within normal limits. She asks the nurse whether she should continue to breast feed the infants. Which of the following is based on sound rationale?",
+    "options": {
+      "A": "\"Nursing will help contract the uterus and reduce your risk of bleeding.\"",
+      "B": "\"Breastfeeding twins will take too much energy after the hemorrhage.\"",
+      "C": "\"The blood transfusion may increase the risks to you and the babies.\"",
+      "D": "\"Lactation should be delayed until the \"real milk\" is secreted.\""
+    },
+    "answer": "A",
+    "rationale": "Stimulation of the breast during nursing releases oxytocin, which contracts the uterus. This contraction is especially important following hemorrhage.[cite: 3]"
+  },
+  {
+    "id": 40,
+    "question": "A client complained of nausea, a metallic taste in her mouth, and fine hand tremors 2 hours after her first dose of lithium carbonate (Lithane). What is the nurse's best explanation of these findings?",
+    "options": {
+      "A": "These side effects are common and should subside in a few days",
+      "B": "The client is probably having an allergic reaction and should discontinue the drug",
+      "C": "Taking the lithium on an empty stomach should decrease these symptoms",
+      "D": "Decreasing dietary intake of sodium and fluids should minimize the side effects"
+    },
+    "answer": "A",
+    "rationale": "Nausea, metallic taste and fine hand tremors are common side effects that usually subside within days.[cite: 3]"
+  },
+  {
+    "id": 41,
+    "question": "The nurse is caring for a post-surgical client at risk for developing deep vein thrombosis. Which intervention is an effective preventive measure?",
+    "options": {
+      "A": "Place pillows under the knees",
+      "B": "Use elastic stockings continuously",
+      "C": "Encourage range of motion and ambulation",
+      "D": "Massage the legs twice daily"
+    },
+    "answer": "C",
+    "rationale": "Mobility reduces the risk of deep vein thrombosis in the post-surgical client and the adult at risk.[cite: 3]"
+  },
+  {
+    "id": 42,
+    "question": "The parents of a newborn male with hypospadias want their child circumcised. The best response by the nurse is to inform them that",
+    "options": {
+      "A": "Circumcision is delayed so the foreskin can be used for the surgical repair",
+      "B": "This procedure is contraindicated because of the permanent defect",
+      "C": "There is no medical indication for performing a circumcision on any child",
+      "D": "The procedure should be performed as soon as the infant is stable"
+    },
+    "answer": "A",
+    "rationale": "Even if mild hypospadias is suspected, circumcision is not done in order to save the foreskin for surgical repair, if needed.[cite: 3]"
+  },
+  {
+    "id": 43,
+    "question": "The nurse is teaching parents about the treatment plan for a 2 weeks-old infant with Tetralogy of Fallot. While awaiting future surgery, the nurse instructs the parents to immediately report",
+    "options": {
+      "A": "Loss of consciousness",
+      "B": "Feeding problems",
+      "C": "Poor weight gain",
+      "D": "Fatigue with crying"
+    },
+    "answer": "A",
+    "rationale": "While parents should report any of the observations, they need to call the health care provider immediately if the level of alertness changes. This indicates anoxia, which may lead to death.[cite: 3]"
+  },
+  {
+    "id": 44,
+    "question": "An infant weighed 7 pounds 8 ounces at birth. If growth occurs at a normal rate, what would be the expected weight at 6 months of age?",
+    "options": {
+      "A": "Double the birth weight",
+      "B": "Triple the birth weight",
+      "C": "Gain 6 ounces each week",
+      "D": "Add 2 pounds each month"
+    },
+    "answer": "A",
+    "rationale": "Although growth rates vary, infants normally double their birth weight by 6 months.[cite: 3]"
+  },
+  {
+    "id": 45,
+    "question": "The nurse is caring for a 13 year-old following spinal fusion for scoliosis. Which of the following interventions is appropriate in the immediate post-operative period?",
+    "options": {
+      "A": "Raise the head of the bed at least 30 degrees",
+      "B": "Encourage ambulation within 24 hours",
+      "C": "Maintain in a flat position, logrolling as needed",
+      "D": "Encourage leg contraction and relaxation after 48 hours"
+    },
+    "answer": "C",
+    "rationale": "The bed should remain flat for at least the first 24 hours to prevent injury. Logrolling is the best way to turn for the client while on bed rest.[cite: 3]"
+  },
+  {
+    "id": 46,
+    "question": "A client asks the nurse about including her 2 and 12 year-old sons in the care of their newborn sister. Which of the following is an appropriate initial statement by the nurse?",
+    "options": {
+      "A": "\"Focus on your sons' needs during the first days at home.\"",
+      "B": "\"Tell each child what he can do to help with the baby.\"",
+      "C": "\"Suggest that your husband spend more time with the boys.\"",
+      "D": "\"Ask the children what they would like to do for the newborn.\""
+    },
+    "answer": "A",
+    "rationale": "In an expanded family, it is important for parents to reassure older children that they are loved and as important as the newborn.[cite: 3]"
+  },
+  {
+    "id": 47,
+    "question": "A nurse is caring for a 2 year-old child after corrective surgery for Tetralogy of Fallot. The mother reports that the child has suddenly begun seizing. The nurse recognizes this problem is probably due to",
+    "options": {
+      "A": "A cerebral vascular accident",
+      "B": "Postoperative meningitis",
+      "C": "Medication reaction",
+      "D": "Metabolic alkalosis"
+    },
+    "answer": "A",
+    "rationale": "Polycythemia occurs as a physiological reaction to chronic hypoxemia which commonly occurs in clients with Tetralogy of Fallot. Polycythemia and the resultant increased viscosity of the blood increase the risk of thromboembolic events, including cerebrovascular accidents.[cite: 3]"
+  },
+  {
+    "id": 48,
+    "question": "A client with schizophrenia is receiving Haloperidol (Haldol) 5 mg t.i.d.. The client’s family is alarmed and calls the clinic when \"his eyes rolled upward.\" The nurse recognizes this as what type of side effect?",
+    "options": {
+      "A": "Oculogyric crisis",
+      "B": "Tardive dyskinesia",
+      "C": "Nystagmus",
+      "D": "Dysphagia"
+    },
+    "answer": "A",
+    "rationale": "Oculogyric crisis refers to involuntary muscle spasm of the eye.[cite: 3]"
+  },
+  {
+    "id": 49,
+    "question": "A home health nurse is at the home of a client with diabetes and arthritis. The client has difficulty drawing up insulin. It would be most appropriate for the nurse to refer the client to",
+    "options": {
+      "A": "A social worker from the local hospital",
+      "B": "An occupational therapist from the community center",
+      "C": "A physical therapist from the rehabilitation agency",
+      "D": "Another client with diabetes mellitus and takes insulin"
+    },
+    "answer": "B",
+    "rationale": "An occupational therapist can assist a client to improve the fine motor skills needed to prepare an insulin injection.[cite: 3]"
+  },
+  {
+    "id": 50,
+    "question": "A client was admitted to the psychiatric unit after complaining to her friends and family that neighbors have bugged her home in order to hear all of her business. She remains aloof from other clients, paces the floor and believes that the hospital is a house of torture. Nursing interventions for the client should appropriately focus on efforts to",
+    "options": {
+      "A": "Convince the client that the hospital staff is trying to help",
+      "B": "Help the client to enter into group recreational activities",
+      "C": "Provide interactions to help the client learn to trust staff",
+      "D": "Arrange the environment to limit the client’s contact with other clients"
+    },
+    "answer": "C",
+    "rationale": "This establishes trust and facilitates a therapeutic alliance between staff and client.[cite: 3]"
+  },
+  {
+    "id": 51,
+    "question": "A client is scheduled for a percutaneous transluminal coronary angioplasty (PTCA). The nurse knows that a PTCA is the",
+    "options": {
+      "A": "Surgical repair of a diseased coronary artery",
+      "B": "Placement of an automatic internal cardiac defibrillator",
+      "C": "Procedure that compresses plaque against the wall of the diseased coronary artery to improve blood flow",
+      "D": "Non-invasive radiographic examination of the heart"
+    },
+    "answer": "C",
+    "rationale": "PTCA is performed to improve coronary artery blood flow in a diseased artery. It is performed during a cardiac catheterization.[cite: 3]"
+  },
+  {
+    "id": 52,
+    "question": "A newborn has been diagnosed with hypothyroidism. In discussing the condition and treatment with the family, the nurse should emphasize",
+    "options": {
+      "A": "They can expect the child will be mentally retarded",
+      "B": "Administration of thyroid hormone will prevent problems",
+      "C": "This rare problem is always hereditary",
+      "D": "Physical growth/development will be delayed"
+    },
+    "answer": "B",
+    "rationale": "Early identification and continued treatment with hormone replacement corrects this condition.[cite: 3]"
+  },
+  {
+    "id": 53,
+    "question": "A priority goal of involuntary hospitalization of the severely mentally ill client is",
+    "options": {
+      "A": "Re-orientation to reality",
+      "B": "Elimination of symptoms",
+      "C": "Protection from harm to self or others",
+      "D": "Return to independent functioning"
+    },
+    "answer": "C",
+    "rationale": "Involuntary hospitalization may be required for persons considered dangerous to self or others or for individuals who are considered gravely disabled.[cite: 3]"
+  },
+  {
+    "id": 54,
+    "question": "A 19 year-old client is paralyzed in a car accident. Which statement used by the client would indicate to the nurse that the client was using the mechanism of \"suppression\"?",
+    "options": {
+      "A": "\"I don't remember anything about what happened to me.\"",
+      "B": "\"I'd rather not talk about it right now.\"",
+      "C": "\"It's the other entire guy's fault! He was going too fast.\"",
+      "D": "\"My mother is heartbroken about this.\""
+    },
+    "answer": "A",
+    "rationale": "Suppression is willfully putting an unacceptable thought or feeling out of one’s mind. A deliberate exclusion or \"voluntary forgetting\" is generally used to protect one’s own self-esteem.[cite: 3]"
+  },
+  {
+    "id": 55,
+    "question": "The nurse is caring for a woman 2 hours after a vaginal delivery. Documentation indicates that the membranes were ruptured for 36 hours prior to delivery. What are the priority nursing diagnoses at this time?",
+    "options": {
+      "A": "Altered tissue perfusion",
+      "B": "Risk for fluid volume deficit",
+      "C": "High risk for hemorrhage",
+      "D": "Risk for infection"
+    },
+    "answer": "D",
+    "rationale": "Membranes ruptured over 24 hours prior to birth greatly increases the risk of infection to both mother and the newborn.[cite: 3]"
+  },
+  {
+    "id": 56,
+    "question": "A 3 year-old had a hip spica cast applied 2 hours ago. In order to facilitate drying, the nurse should",
+    "options": {
+      "A": "Expose the cast to air and turn the child frequently",
+      "B": "Use a heat lamp to reduce the drying time",
+      "C": "Handle the cast with the abductor bar",
+      "D": "Turn the child as little as possible"
+    },
+    "answer": "A",
+    "rationale": "The child should be turned every 2 hours, with surface exposed to the air.[cite: 3]"
+  },
+  {
+    "id": 57,
+    "question": "A client is scheduled for an Intravenous Pyelogram (IVP). In order to prepare the client for this test, the nurse would:",
+    "options": {
+      "A": "Instruct the client to maintain a regular diet the day prior to the examination",
+      "B": "Restrict the client's fluid intake 4 hours prior to the examination",
+      "C": "Administer a laxative to the client the evening before the examination",
+      "D": "Inform the client that only 1 x-ray of his abdomen is necessary"
+    },
+    "answer": "C",
+    "rationale": "Bowel prep is important because it will allow greater visualization of the bladder and ureters.[cite: 3]"
+  },
+  {
+    "id": 58,
+    "question": "Following a diagnosis of acute glomerulonephritis (AGN) in their 6 year-old child, the parent’s remark: “We just don’t know how he caught the disease!” The nurse's response is based on an understanding that",
+    "options": {
+      "A": "AGN is a streptococcal infection that involves the kidney tubules",
+      "B": "The disease is easily transmissible in schools and camps",
+      "C": "The illness is usually associated with chronic respiratory infections",
+      "D": "It is not \"caught\" but is a response to a previous B-hemolytic strep infection"
+    },
+    "answer": "D",
+    "rationale": "AGN is generally accepted as an immune-complex disease in relation to an antecedent streptococcal infection of 4 to 6 weeks prior, and is considered as a noninfectious renal disease.[cite: 3]"
+  },
+  {
+    "id": 59,
+    "question": "The nurse is caring for a 20 lbs (9 kg) 6 month-old with a 3 day history of diarrhea, occasional vomiting and fever. Peripheral intravenous therapy has been initiated, with 5% dextrose in 0.33% normal saline with 20 mEq of potassium per liter infusing at 35 ml/hr. Which finding should be reported to the health care provider immediately?",
+    "options": {
+      "A": "3 episodes of vomiting in 1 hour",
+      "B": "Periodic crying and irritability",
+      "C": "Vigorous sucking on a pacifier",
+      "D": "No measurable voiding in 4 hours"
+    },
+    "answer": "D",
+    "rationale": "The concern is possible hyperkalemia, which could occur with continued potassium administration and a decrease in urinary output since potassium is excreted via the kidneys.[cite: 3]"
+  },
+  {
+    "id": 60,
+    "question": "While caring for the client during the first hour after delivery, the nurse determines that the uterus is boggy and there is vaginal bleeding. What should be the nurse's first action?",
+    "options": {
+      "A": "Check vital signs",
+      "B": "Massage the fundus",
+      "C": "Offer a bedpan",
+      "D": "Check for perineal lacerations"
+    },
+    "answer": "B",
+    "rationale": "The nurse's first action should be to massage the fundus until it is firm as uterine atony is the primary cause of bleeding in the first hour after delivery.[cite: 3]"
+  },
+  {
+    "id": 61,
+    "question": "The nurse is assessing an infant with developmental dysplasia of the hip. Which finding would the nurse anticipate?",
+    "options": {
+      "A": "Unequal leg length",
+      "B": "Limited adduction",
+      "C": "Diminished femoral pulses",
+      "D": "Symmetrical gluteal folds"
+    },
+    "answer": "A",
+    "rationale": "Shortening of a leg is a sign of developmental dysplasia of the hip.[cite: 3]"
+  },
+  {
+    "id": 62,
+    "question": "To prevent a valsalva maneuver in a client recovering from an acute myocardial infarction, the nurse would",
+    "options": {
+      "A": "Assist the client to use the bedside commode",
+      "B": "Administer stool softeners every day as ordered",
+      "C": "Administer antidysrhythmics prn as ordered",
+      "D": "Maintain the client on strict bed rest"
+    },
+    "answer": "B",
+    "rationale": "Administering stool softeners every day will prevent straining on defecation which causes the Valsalva maneuver.[cite: 3]"
+  },
+  {
+    "id": 63,
+    "question": "On admission to the psychiatric unit, the client is trembling and appears fearful. The nurse's initial response should be to",
+    "options": {
+      "A": "Give the client orientation materials and review the unit rules and regulations",
+      "B": "Introduce him/herself and accompany the client to the client's room",
+      "C": "Take the client to the day room and introduce her to the other clients",
+      "D": "Ask the nursing assistant to get the client's vital signs and complete the admission search"
+    },
+    "answer": "B",
+    "rationale": "In response to anxiety in clients, the nurse should remain calm, minimize stimuli, and move the client to a calmer, more secure/safe setting.[cite: 3]"
+  },
+  {
+    "id": 64,
+    "question": "During the admission assessment on a client with chronic bilateral glaucoma, which statement by the client would the nurse anticipate since it is associated with this problem?",
+    "options": {
+      "A": "\"I have constant blurred vision.\"",
+      "B": "\"I can't see on my left side.\"",
+      "C": "\"I have to turn my head to see my room.\"",
+      "D": "\"I have specks floating in my eyes.\""
+    },
+    "answer": "C",
+    "rationale": "Intraocular pressure becomes elevated which slowly produces a progressive loss of the peripheral visual field in the affected eye along with rainbow halos around lights.[cite: 3]"
+  },
+  {
+    "id": 65,
+    "question": "A client with asthma has low pitched wheezes present on the final half of exhalation. One hour later the client has high pitched wheezes extending throughout exhalation. This change in assessment indicates to the nurse that the client",
+    "options": {
+      "A": "Has increased airway obstruction",
+      "B": "Has improved airway obstruction",
+      "C": "Needs to be suctioned",
+      "D": "Exhibits hyperventilation"
+    },
+    "answer": "A",
+    "rationale": "The higher pitched a sound is, the more narrow the airway. Therefore, the obstruction has increased or worsened.[cite: 3]"
+  },
+  {
+    "id": 66,
+    "question": "Which behavioral characteristic describes the domestic abuser?",
+    "options": {
+      "A": "Alcoholic",
+      "B": "Over confident",
+      "C": "High tolerance for frustrations",
+      "D": "Low self-esteem"
+    },
+    "answer": "D",
+    "rationale": "Batterers are usually physically or psychologically abused as children or have had experiences of parental violence. Batterers are also manipulative, have low self-esteem, and have a great need to exercise control or power over their partner.[cite: 3]"
+  },
+  {
+    "id": 67,
+    "question": "The nurse is caring for a client with a long leg cast. During discharge teaching about appropriate exercises for the affected extremity, the nurse should recommend",
+    "options": {
+      "A": "Isometric",
+      "B": "Range of motion",
+      "C": "Aerobic",
+      "D": "Isotonic"
+    },
+    "answer": "A",
+    "rationale": "The nurse should instruct the client on isometric exercises for the muscles of the casted extremity.[cite: 3]"
+  },
+  {
+    "id": 68,
+    "question": "A client is in her third month of her first pregnancy. During the interview, she tells the nurse that she has several sex partners and is unsure of the identity of the baby's father. Which of the following nursing interventions is a priority?",
+    "options": {
+      "A": "Counsel the woman to consent to HIV screening",
+      "B": "Perform tests for sexually transmitted diseases",
+      "C": "Discuss her high risk for cervical cancer",
+      "D": "Refer the client to a family planning clinic"
+    },
+    "answer": "A",
+    "rationale": "The client's behavior places her at high risk for HIV. Testing is the first step.[cite: 3]"
+  },
+  {
+    "id": 69,
+    "question": "A 16 month-old child has just been admitted to the hospital. As the nurse assigned to this child enters the hospital room for the first time, the toddler runs to the mother, clings to her and begins to cry. What would be the initial action by the nurse?",
+    "options": {
+      "A": "Arrange to change client care assignments",
+      "B": "Explain that this behavior is expected",
+      "C": "Discuss the appropriate use of \"time-out\"",
+      "D": "Explain that the child needs extra attention"
+    },
+    "answer": "B",
+    "rationale": "During normal development, fear of strangers becomes prominent beginning around age 6-8 months. Such behaviors extend into the toddler period and may persist into preschool.[cite: 3]"
+  },
+  {
+    "id": 70,
+    "question": "While planning care for a 2 year-old hospitalized child, which situation would the nurse expect to most likely affect the behavior?",
+    "options": {
+      "A": "Strange bed and surroundings",
+      "B": "Separation from parents",
+      "C": "Presence of other toddlers",
+      "D": "Unfamiliar toys and games"
+    },
+    "answer": "B",
+    "rationale": "Separation anxiety is most evident from 6 months to 30 months of age. It is the greatest stress imposed on a toddler by hospitalization.[cite: 3]"
+  },
+  {
+    "id": 71,
+    "question": "While explaining an illness to a 10 year-old, what should the nurse keep in mind about the cognitive development at this age?",
+    "options": {
+      "A": "They are able to make simple association of ideas",
+      "B": "They are able to think logically in organizing facts",
+      "C": "Interpretation of events originate from their own perspective",
+      "D": "Conclusions are based on previous experiences"
+    },
+    "answer": "B",
+    "rationale": "The child in the concrete operations stage, according to Piaget, is capable of mature thought when allowed to manipulate and organize objects.[cite: 3]"
+  },
+  {
+    "id": 72,
+    "question": "The nurse is has just admitted a client with severe depression. From which focus should the nurse identify a priority nursing diagnosis?",
+    "options": {
+      "A": "Nutrition",
+      "B": "Elimination",
+      "C": "Activity",
+      "D": "Safety"
+    },
+    "answer": "D",
+    "rationale": "Safety is a priority of care for the depressed client. Precautions to prevent suicide must be a part of the plan.[cite: 3]"
+  },
+  {
+    "id": 73,
+    "question": "Which playroom activities should the nurse organize for a small group of 7 year-old hospitalized children?",
+    "options": {
+      "A": "Sports and games with rules",
+      "B": "Finger paints and water play",
+      "C": "\"Dress-up\" clothes and props",
+      "D": "Chess and television programs"
+    },
+    "answer": "A",
+    "rationale": "The purpose of play for the 7 year-old is cooperation. Rules are very important. Logical reasoning and social skills are developed through play.[cite: 3]"
+  },
+  {
+    "id": 74,
+    "question": "A client is discharged following hospitalization for congestive heart failure. The nurse teaching the family suggests they encourage the client to rest frequently in which of the following positions?",
+    "options": {
+      "A": "High Fowler's",
+      "B": "Supine",
+      "C": "Left lateral",
+      "D": "Low Fowler's"
+    },
+    "answer": "A",
+    "rationale": "Sitting in a chair or resting in a bed in high Fowler's position decreases the cardiac workload and facilitates breathing.[cite: 3]"
+  },
+  {
+    "id": 75,
+    "question": "The nurse is caring for a 10 year-old on admission to the burn unit. One assessment parameter that will indicate that the child has adequate fluid replacement is",
+    "options": {
+      "A": "Urinary output of 30 ml per hour",
+      "B": "No complaints of thirst",
+      "C": "Increased hematocrit",
+      "D": "Good skin turgor around burn"
+    },
+    "answer": "A",
+    "rationale": "For a child of this age, this is adequate output, yet does not suggest overload.[cite: 3]"
+  }
+]
