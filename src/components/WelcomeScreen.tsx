@@ -42,7 +42,7 @@ export default function WelcomeScreen({ onStart }: { onStart: () => void }) {
         </button>
 
         <p className="text-xs text-slate-400 text-center">
-          Found a bug or have suggestions? Contact us at: <span className="font-semibold text-slate-600">billyjoecruzada12@gmail.com</span>
+          Found a bug or have suggestions? Directly contact me at: <span className="font-semibold text-slate-600">billyjoecruzada12@gmail.com</span>
         </p>
       </div>
     </div>

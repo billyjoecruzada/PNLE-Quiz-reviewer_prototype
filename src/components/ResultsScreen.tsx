@@ -91,7 +91,7 @@ export default function ResultsScreen({
         <div className="bg-white rounded-xl border border-slate-200 p-4 flex gap-3 items-center text-sm text-slate-600">
           <Mail className="w-5 h-5 text-slate-400 shrink-0" />
           <span>
-            Found a bug or have suggestions? Contact us at: <span className="font-bold text-slate-900">billyjoecruzada12@gmail.com</span>
+            Found a bug or have suggestions? Directly contact me at: <span className="font-bold text-slate-900">billyjoecruzada12@gmail.com</span>
           </span>
         </div>
       </div>
