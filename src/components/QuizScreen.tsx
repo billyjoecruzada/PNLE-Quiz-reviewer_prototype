@@ -1,6 +1,12 @@
 "use client";
+import { useEffect, useState, useRef } from "react";
 import type { Question, UserAnswer } from "@/types/quiz";
-import { CheckCircle2, XCircle, ChevronRight, Flag } from "lucide-react";
+import { CheckCircle2, XCircle, ChevronRight, Flag, Sparkles, Loader2 } from "lucide-react";
+
+function isPlaceholderRationale(r: string): boolean {
+  if (!r) return true;
+  return r.startsWith("Correct answer is ") && r.includes("most appropriate nursing action");
+}
 
 export default function QuizScreen({
   questions,
@@ -26,6 +32,59 @@ export default function QuizScreen({
   const q = questions[currentIndex];
   const ua = answers[q.id];
   const isSubmitted = ua?.isSubmitted;
+  const [aiRationale, setAiRationale] = useState<string | null>(null);
+  const [loading, setLoading] = useState(false);
+  const cacheRef = useRef<Map<number, string>>(new Map());
+
+  useEffect(() => {
+    if (!isSubmitted) {
+      setAiRationale(null);
+      setLoading(false);
+      return;
+    }
+    const needsAI = isPlaceholderRationale(q.rationale);
+    if (!needsAI) {
+      setAiRationale(null);
+      return;
+    }
+    if (cacheRef.current.has(q.id)) {
+      setAiRationale(cacheRef.current.get(q.id)!);
+      return;
+    }
+    let cancelled = false;
+    setLoading(true);
+    const opts: Record<string, string> = {};
+    q.options.forEach((o) => {
+      const m = o.match(/^([A-D])\)\s*(.*)/);
+      if (m) opts[m[1]] = m[2];
+    });
+    fetch("/api/rationale", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ question: q.question, options: opts, answer: q.answer, topic: q.topic }),
+    })
+      .then(async (res) => {
+        if (!res.ok) throw new Error("ai failed");
+        const data = await res.json();
+        return data.rationale as string;
+      })
+      .then((rationale) => {
+        if (cancelled) return;
+        cacheRef.current.set(q.id, rationale);
+        setAiRationale(rationale);
+      })
+      .catch(() => {
+        if (!cancelled) setAiRationale(null);
+      })
+      .finally(() => {
+        if (!cancelled) setLoading(false);
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [isSubmitted, q.id, q.question, q.options, q.answer, q.topic, q.rationale]);
+
+  const displayRationale = aiRationale ?? q.rationale;
 
   return (
     <div className="flex flex-1 flex-col bg-[#F0F4F8]">
@@ -91,7 +150,21 @@ export default function QuizScreen({
                 {ua.isCorrect ? <CheckCircle2 className="w-4 h-4" /> : <XCircle className="w-4 h-4" />}
                 {ua.isCorrect ? "Correct" : "Wrong"} — Answer: {q.answer}
               </div>
-              <p className="mt-3 text-sm leading-relaxed text-slate-700">{q.rationale}</p>
+              {loading ? (
+                <p className="mt-3 text-sm leading-relaxed text-slate-600 flex items-center gap-2">
+                  <Loader2 className="w-4 h-4 animate-spin" /> AI Rationale: generating...
+                </p>
+              ) : aiRationale ? (
+                <p className="mt-3 text-sm leading-relaxed text-slate-700 flex gap-2">
+                  <Sparkles className="w-4 h-4 text-emerald-600 shrink-0 mt-0.5" />
+                  <span>{displayRationale}</span>
+                </p>
+              ) : (
+                <p className="mt-3 text-sm leading-relaxed text-slate-700">
+                  <span className="font-semibold">Rationale: </span>
+                  {displayRationale}
+                </p>
+              )}
             </div>
           )}
 
